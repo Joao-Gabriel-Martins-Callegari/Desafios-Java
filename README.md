@@ -106,3 +106,17 @@ Desafio 6 - Faça um Programa que leia 20 números inteiros e
    - O vetor PAR contendo apenas os números pares.
    - O vetor IMPAR contendo apenas os números ímpares.
 ------------------------------------------------------------------------------------------------------------
+
+Desafio 7 - Faça um Programa que peça as quatro notas de 10 alunos,
+   calcule e armazene num vetor a média de cada aluno e
+   imprima o número de alunos com média maior ou igual a 7.0.
+  
+   O programa deve seguir as seguintes regras:
+  
+   - Solicitar que o usuário insira quatro notas para cada um dos 10 alunos.
+   - Calcular a média de cada aluno e armazená-la num vetor.
+   - Contar quantos alunos têm média maior ou igual a 7.0.
+   - Ao final, exibir a quantidade de alunos com média maior ou igual a 7.0.
+------------------------------------------------------------------------------------------------------------
+
+
