@@ -119,4 +119,44 @@ Desafio 7 - Faça um Programa que peça as quatro notas de 10 alunos,
    - Ao final, exibir a quantidade de alunos com média maior ou igual a 7.0.
 ------------------------------------------------------------------------------------------------------------
 
+Desafio 8 - Construa uma função que receba uma data no formato DD/MM/AAAA e
+   devolva uma string no formato D de mêsPorExtenso de AAAA.
+  
+   Se a data for inválida (por exemplo, se o mês ou o dia não existirem), a
+   função deverá retornar NULL.
+  
+   A função deve considerar os meses por extenso como: "Janeiro", "Fevereiro", etc.
+------------------------------------------------------------------------------------------------------------
+
+Desafio 9 - Faça um Programa que leia 2 strings e informe:
+  
+   - O conteúdo de cada string seguido do seu comprimento.
+   - Se as duas strings possuem o mesmo comprimento.
+   - Se as duas strings possuem o mesmo conteúdo.
+  
+   O programa deve seguir as seguintes regras:
+  
+   1. Solicitar ao usuário que insira duas strings.
+   2. Para cada string, exibir o conteúdo e o comprimento.
+   3. Verificar se as strings têm o mesmo comprimento e
+      se possuem o mesmo conteúdo.
+   4. Exibir se elas têm o mesmo comprimento e se são
+      iguais ou diferentes no conteúdo.
+------------------------------------------------------------------------------------------------------------
+
+  Desafio 10. Leonardo o Pescador comprou um microcomputador para
+   controlar o rendimento diário de seu trabalho.
+  
+   Sempre que ele traz um peso de peixes maior que o estabelecido pelo
+   regulamento de pesca do estado de São Paulo (50 quilos),
+   ele deve pagar uma multa de R$ 8,00 por quilo excedente.
+  
+   O programa deve seguir as seguintes regras:
+  
+   - Solicitar que o usuário insira o peso total de peixes pescados em quilos.
+   - Se o peso for maior que 50 quilos, calcular o excesso e o valor da multa.
+   - Armazenar a quantidade de quilos excedentes na variável excesso.
+   - Armazenar o valor da multa na variável multa (R$ 8,00 por quilo excedente).
+   - Exibir o peso total, o excesso (se houver) e o valor da multa (se houver).
+------------------------------------------------------------------------------------------------------------
 
